@@ -78,8 +78,8 @@ The goal of this task was to **clean and preprocess the raw Netflix Movies and T
 ##  Example of Cleaned Dataset Preview
 | title                   | type     | country       | date_added   | release_year | rating   |
 |-------------------------|----------|--------------|--------------|--------------|----------|
-| dick johnson is dead    | movie    | United States | 09-09-2019   | 2020         | PG-13    |
-| blood & water           | tv show  | South Africa  | 20-05-2021   | 2021         | TV-MA    |
-| ganglands               | tv show  | France        | 24-09-2021   | 2021         | TV-MA    |
+| Dick johnson is dead    | Movie    | United States | 09-09-2019   | 2020         | PG-13    |
+| Blood & water           | Tv show  | South Africa  | 20-05-2021   | 2021         | TV-MA    |
+| Ganglands               | Tv show  | France        | 24-09-2021   | 2021         | TV-MA    |
 
 ---
